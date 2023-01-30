@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @patricia466
+- I am a UI/UX Designer
+-
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on wide range of programming projects.
